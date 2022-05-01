@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "sora-js-sdk": "^2021.2.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.13.0"
+  }
+}
